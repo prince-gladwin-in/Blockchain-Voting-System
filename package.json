@@ -1,0 +1,21 @@
+{
+  "name": "blockchain-voting-system",
+  "version": "1.0.0",
+  "description": "A secure, transparent voting system using blockchain technology",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm start",
+    "compile": "cd contracts && npx hardhat compile",
+    "deploy": "cd contracts && npx hardhat run scripts/deploy.js --network localhost",
+    "test": "cd contracts && npx hardhat test",
+    "node": "cd contracts && npx hardhat node"
+  },
+  "keywords": ["blockchain", "voting", "ethereum", "solidity", "react", "nodejs"],
+  "author": "Blockchain Voting Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
