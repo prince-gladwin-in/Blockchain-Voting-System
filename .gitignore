@@ -125,3 +125,10 @@ backend/uploads/
 # Test files
 test-results/
 coverage/
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
