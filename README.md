@@ -1,6 +1,39 @@
 # 🗳️ Blockchain Voting System
 
+<div align="center">
+
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.19-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-5.0+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+![GitHub Stars](https://img.shields.io/github/stars/Gabimaru123/Blockchain-Voting-System?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/Gabimaru123/Blockchain-Voting-System?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/Gabimaru123/Blockchain-Voting-System?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+</div>
+
+---
+
 A **secure, transparent, and decentralized** voting system built with blockchain technology, featuring separate admin and user interfaces with comprehensive voter management.
+
+## 📑 Table of Contents
+
+- [✨ Key Features](#-key-features)
+- [🏗️ Architecture](#️-architecture)
+- [🚀 Quick Start](#-quick-start)
+- [📖 Detailed Documentation](#-detailed-documentation)
+- [👤 User Roles & Features](#-user-roles--features)
+- [🔒 Security Features](#-security-features)
+- [📁 Project Structure](#-project-structure)
+- [🎯 Usage Workflow](#-usage-workflow)
+- [🧪 Testing](#-testing)
+- [🐛 Troubleshooting](#-troubleshooting)
+- [📊 Technology Stack](#-technology-stack)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ## ✨ Key Features
 
